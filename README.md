@@ -1,7 +1,7 @@
 <p align="center">
-	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png">
+	<img alt="logo" src="https://github.com/CrescentR/SaleManaSys/blob/main/logos.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v3.8.9</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">v1</h1>
 <h4 align="center">基于IOT的前后端分离的售货机管理系统</h4>
 
 ## 平台简介
